@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="remote_jobs_for_anyone_anywhere">Remote jobs for \nanyone anywhere</string>
+    <string name="thousands_of_jobs_find_your_jobs">Thousands of jobs.find your jobs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
